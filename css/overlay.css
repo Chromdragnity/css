@@ -26,7 +26,7 @@ body {
 }
 .name {
   width: 55px;
-  height: 17px;
+  height: 18px;
   line-height: 17px !important;
   white-space: nowrap;
   text-overflow: clip;
